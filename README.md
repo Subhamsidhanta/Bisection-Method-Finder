@@ -57,3 +57,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Profile
 
 For more projects, visit [Subhamsidhanta's GitHub](https://github.com/Subhamsidhanta).
+## deployed page
+link:https://subhamsidhanta.github.io/Bisection-Method-Root-Finder/
